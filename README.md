@@ -13,6 +13,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anbuk143/leetCode_2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Array
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
