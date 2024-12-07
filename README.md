@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anbuk143/leetCode_2/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
@@ -91,4 +92,8 @@
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anbuk143/leetCode_2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/anbuk143/leetCode_2/tree/master/1806-count-of-matches-in-tournament) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
