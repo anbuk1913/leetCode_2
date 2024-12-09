@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/anbuk143/leetCode_2/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/anbuk143/leetCode_2/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -96,4 +99,16 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
