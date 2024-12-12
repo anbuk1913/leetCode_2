@@ -42,6 +42,7 @@
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/anbuk143/leetCode_2/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1580-shuffle-the-array](https://github.com/anbuk143/leetCode_2/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/anbuk143/leetCode_2/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/anbuk143/leetCode_2/tree/master/2048-build-array-from-permutation) |
