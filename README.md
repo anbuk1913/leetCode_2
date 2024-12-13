@@ -33,6 +33,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anbuk143/leetCode_2/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
