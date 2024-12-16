@@ -19,6 +19,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/anbuk143/leetCode_2/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/anbuk143/leetCode_2/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
@@ -81,6 +82,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
 | [1806-count-of-matches-in-tournament](https://github.com/anbuk143/leetCode_2/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/anbuk143/leetCode_2/tree/master/2048-build-array-from-permutation) |
@@ -103,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anbuk143/leetCode_2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/anbuk143/leetCode_2/tree/master/1806-count-of-matches-in-tournament) |
 | [2556-convert-the-temperature](https://github.com/anbuk143/leetCode_2/tree/master/2556-convert-the-temperature) |
