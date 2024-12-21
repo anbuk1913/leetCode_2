@@ -44,6 +44,7 @@
 | [0485-max-consecutive-ones](https://github.com/anbuk143/leetCode_2/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
@@ -100,11 +101,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
