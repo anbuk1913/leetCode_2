@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anbuk143/leetCode_2/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
@@ -92,6 +93,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
 | [1806-count-of-matches-in-tournament](https://github.com/anbuk143/leetCode_2/tree/master/1806-count-of-matches-in-tournament) |
@@ -117,6 +119,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0326-power-of-three](https://github.com/anbuk143/leetCode_2/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1013-fibonacci-number) |
