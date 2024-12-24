@@ -117,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/anbuk143/leetCode_2/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anbuk143/leetCode_2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -164,6 +165,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/anbuk143/leetCode_2/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
