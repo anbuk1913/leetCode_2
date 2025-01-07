@@ -29,6 +29,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/anbuk143/leetCode_2/tree/master/1542-consecutive-characters) |
 | [1619-path-crossing](https://github.com/anbuk143/leetCode_2/tree/master/1619-path-crossing) |
+| [1651-shuffle-string](https://github.com/anbuk143/leetCode_2/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1970-sorting-the-sentence](https://github.com/anbuk143/leetCode_2/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anbuk143/leetCode_2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -55,6 +56,7 @@
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/anbuk143/leetCode_2/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/anbuk143/leetCode_2/tree/master/1580-shuffle-the-array) |
+| [1651-shuffle-string](https://github.com/anbuk143/leetCode_2/tree/master/1651-shuffle-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anbuk143/leetCode_2/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/anbuk143/leetCode_2/tree/master/1833-find-the-highest-altitude) |
