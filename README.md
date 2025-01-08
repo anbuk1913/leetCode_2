@@ -66,6 +66,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anbuk143/leetCode_2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
