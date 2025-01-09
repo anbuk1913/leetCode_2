@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/anbuk143/leetCode_2/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/anbuk143/leetCode_2/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
