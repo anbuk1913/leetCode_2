@@ -50,6 +50,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/anbuk143/leetCode_2/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
+| [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anbuk143/leetCode_2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
@@ -200,4 +202,12 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anbuk143/leetCode_2/tree/master/2292-counting-words-with-a-given-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
