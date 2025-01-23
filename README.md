@@ -49,6 +49,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/anbuk143/leetCode_2/tree/master/0485-max-consecutive-ones) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anbuk143/leetCode_2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
@@ -179,6 +182,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/anbuk143/leetCode_2/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anbuk143/leetCode_2/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
