@@ -59,6 +59,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anbuk143/leetCode_2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anbuk143/leetCode_2/tree/master/1505-create-target-array-in-the-given-order) |
@@ -105,6 +106,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
+| [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/anbuk143/leetCode_2/tree/master/1970-sorting-the-sentence) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
