@@ -33,6 +33,7 @@
 | [1619-path-crossing](https://github.com/anbuk143/leetCode_2/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/anbuk143/leetCode_2/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/anbuk143/leetCode_2/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/anbuk143/leetCode_2/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anbuk143/leetCode_2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -93,6 +94,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/anbuk143/leetCode_2/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
