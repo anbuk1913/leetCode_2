@@ -9,7 +9,7 @@ var destCity = function(paths) {
         if(t==paths[j][0]){
         t=paths[j][1]
         }
-    }
+        }
     }
     return t
 };
