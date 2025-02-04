@@ -86,6 +86,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anbuk143/leetCode_2/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/anbuk143/leetCode_2/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anbuk143/leetCode_2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
