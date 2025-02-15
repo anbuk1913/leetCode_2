@@ -85,6 +85,7 @@
 | [2048-build-array-from-permutation](https://github.com/anbuk143/leetCode_2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anbuk143/leetCode_2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anbuk143/leetCode_2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-smallest-index-with-equal-value](https://github.com/anbuk143/leetCode_2/tree/master/2181-smallest-index-with-equal-value) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
@@ -179,6 +180,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anbuk143/leetCode_2/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/anbuk143/leetCode_2/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/anbuk143/leetCode_2/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/anbuk143/leetCode_2/tree/master/2752-sum-multiples) |
 ## Backtracking
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
