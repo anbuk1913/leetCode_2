@@ -180,6 +180,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -263,10 +264,12 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
+| [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
+| [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 ## Counting Sort
 |  |
 | ------- |
@@ -280,4 +283,12 @@
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/anbuk143/leetCode_2/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anbuk143/leetCode_2/tree/master/2215-finding-3-digit-even-numbers) |
+## Union Find
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
+## Graph
+|  |
+| ------- |
+| [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 <!---LeetCode Topics End-->
