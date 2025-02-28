@@ -22,21 +22,21 @@ var minSwapsCouples = function(row) {
                 i++
             }
         } else {
-        let num = row[i-1]
-        if(row[i] == num-1){
-            i++
-            continue
-        } else {
-            count++
-            let tem = i
-            while(row[tem]!=num-1){
-                tem++
+            let num = row[i-1]
+            if(row[i] == num-1){
+                i++
+                continue
+            } else {
+                count++
+                let tem = i
+                while(row[tem]!=num-1){
+                    tem++
+                }
+                let t = row[i]
+                row[i] = row[tem]
+                row[tem] = t
+                i++
             }
-            let t = row[i]
-            row[i] = row[tem]
-            row[tem] = t
-            i++
-        }
         }
     }
     return count
