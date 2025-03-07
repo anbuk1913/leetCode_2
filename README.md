@@ -76,6 +76,7 @@
 | [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -120,6 +121,7 @@
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anbuk143/leetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/anbuk143/leetCode_2/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/anbuk143/leetCode_2/tree/master/2128-reverse-prefix-of-word) |
@@ -144,6 +146,7 @@
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
