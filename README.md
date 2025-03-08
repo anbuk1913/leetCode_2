@@ -43,6 +43,7 @@
 | [1651-shuffle-string](https://github.com/anbuk143/leetCode_2/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/anbuk143/leetCode_2/tree/master/1894-merge-strings-alternately) |
+| [1899-count-items-matching-a-rule](https://github.com/anbuk143/leetCode_2/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/anbuk143/leetCode_2/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anbuk143/leetCode_2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -90,6 +91,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anbuk143/leetCode_2/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/anbuk143/leetCode_2/tree/master/1833-find-the-highest-altitude) |
+| [1899-count-items-matching-a-rule](https://github.com/anbuk143/leetCode_2/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/anbuk143/leetCode_2/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anbuk143/leetCode_2/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
