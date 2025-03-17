@@ -14,6 +14,7 @@
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/anbuk143/leetCode_2/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/anbuk143/leetCode_2/tree/master/1619-path-crossing) |
@@ -84,6 +85,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anbuk143/leetCode_2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anbuk143/leetCode_2/tree/master/1505-create-target-array-in-the-given-order) |
@@ -160,6 +162,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/anbuk143/leetCode_2/tree/master/1970-sorting-the-sentence) |
@@ -301,6 +304,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 ## Number Theory
 |  |
 | ------- |
