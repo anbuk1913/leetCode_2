@@ -40,6 +40,7 @@
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1205-defanging-an-ip-address](https://github.com/anbuk143/leetCode_2/tree/master/1205-defanging-an-ip-address) |
 | [1542-consecutive-characters](https://github.com/anbuk143/leetCode_2/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/anbuk143/leetCode_2/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/anbuk143/leetCode_2/tree/master/1619-path-crossing) |
