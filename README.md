@@ -114,6 +114,7 @@
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anbuk143/leetCode_2/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anbuk143/leetCode_2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
@@ -226,6 +227,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/anbuk143/leetCode_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/anbuk143/leetCode_2/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/anbuk143/leetCode_2/tree/master/2752-sum-multiples) |
 ## Backtracking
 |  |
