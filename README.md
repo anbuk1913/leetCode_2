@@ -85,6 +85,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
+| [1095-two-city-scheduling](https://github.com/anbuk143/leetCode_2/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -163,6 +164,7 @@
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/1019-squares-of-a-sorted-array) |
+| [1095-two-city-scheduling](https://github.com/anbuk143/leetCode_2/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
+| [1095-two-city-scheduling](https://github.com/anbuk143/leetCode_2/tree/master/1095-two-city-scheduling) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anbuk143/leetCode_2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
