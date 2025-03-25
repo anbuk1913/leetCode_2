@@ -58,6 +58,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anbuk143/leetCode_2/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/anbuk143/leetCode_2/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/anbuk143/leetCode_2/tree/master/2401-count-asterisks) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -218,6 +219,7 @@
 | [1095-two-city-scheduling](https://github.com/anbuk143/leetCode_2/tree/master/1095-two-city-scheduling) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anbuk143/leetCode_2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/anbuk143/leetCode_2/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Math
 |  |
