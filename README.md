@@ -47,6 +47,7 @@
 | [1542-consecutive-characters](https://github.com/anbuk143/leetCode_2/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/anbuk143/leetCode_2/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/anbuk143/leetCode_2/tree/master/1619-path-crossing) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anbuk143/leetCode_2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/anbuk143/leetCode_2/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/anbuk143/leetCode_2/tree/master/1894-merge-strings-alternately) |
@@ -220,6 +221,7 @@
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anbuk143/leetCode_2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2128-reverse-prefix-of-word](https://github.com/anbuk143/leetCode_2/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -232,6 +234,7 @@
 | [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/anbuk143/leetCode_2/tree/master/1095-two-city-scheduling) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anbuk143/leetCode_2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anbuk143/leetCode_2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/anbuk143/leetCode_2/tree/master/2345-minimum-number-of-operations-to-convert-time) |
