@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
@@ -40,6 +41,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/anbuk143/leetCode_2/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
+| [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -90,6 +92,7 @@
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
@@ -178,6 +181,7 @@
 | [0414-third-maximum-number](https://github.com/anbuk143/leetCode_2/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
@@ -375,4 +379,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anbuk143/leetCode_2/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
