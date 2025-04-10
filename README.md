@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/anbuk143/leetCode_2/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anbuk143/leetCode_2/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/anbuk143/leetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -79,6 +80,7 @@
 | [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/anbuk143/leetCode_2/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/anbuk143/leetCode_2/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
@@ -358,6 +360,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anbuk143/leetCode_2/tree/master/0128-longest-consecutive-sequence) |
 | [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 ## Graph
 |  |
