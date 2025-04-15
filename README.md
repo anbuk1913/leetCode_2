@@ -32,6 +32,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2825-minimize-string-length](https://github.com/anbuk143/leetCode_2/tree/master/2825-minimize-string-length) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anbuk143/leetCode_2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/anbuk143/leetCode_2/tree/master/3429-special-array-i) |
 ## Prefix Sum
 |  |
@@ -316,6 +318,7 @@
 | [0338-counting-bits](https://github.com/anbuk143/leetCode_2/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anbuk143/leetCode_2/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
