@@ -89,6 +89,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/anbuk143/leetCode_2/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
@@ -182,6 +183,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anbuk143/leetCode_2/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anbuk143/leetCode_2/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/anbuk143/leetCode_2/tree/master/0349-intersection-of-two-arrays) |
