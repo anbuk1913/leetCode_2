@@ -21,6 +21,7 @@
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/anbuk143/leetCode_2/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/anbuk143/leetCode_2/tree/master/1619-path-crossing) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anbuk143/leetCode_2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -121,6 +122,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anbuk143/leetCode_2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anbuk143/leetCode_2/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/anbuk143/leetCode_2/tree/master/1547-destination-city) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/anbuk143/leetCode_2/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -307,6 +309,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anbuk143/leetCode_2/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anbuk143/leetCode_2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
