@@ -28,6 +28,7 @@
 | [2122-count-special-quadruplets](https://github.com/anbuk143/leetCode_2/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anbuk143/leetCode_2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
@@ -71,6 +72,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anbuk143/leetCode_2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anbuk143/leetCode_2/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anbuk143/leetCode_2/tree/master/2341-count-prefixes-of-a-given-string) |
