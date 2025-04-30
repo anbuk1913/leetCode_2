@@ -19,12 +19,8 @@ var countVowelSubstrings = function(word) {
                         tem.push(word[k])
                     }
                 }
-                console.log(i,j)
-                let st =""
-                for(let x=i;x<=j;x++)st+=word[x]
                 if(tem.length == 5){
                     count++
-                    console.log(st)
                 }
             }
         }
