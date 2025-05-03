@@ -14,6 +14,7 @@
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anbuk143/leetCode_2/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/anbuk143/leetCode_2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
@@ -48,6 +49,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/anbuk143/leetCode_2/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/anbuk143/leetCode_2/tree/master/0551-student-attendance-record-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/anbuk143/leetCode_2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
@@ -110,6 +112,7 @@
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/anbuk143/leetCode_2/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/anbuk143/leetCode_2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/anbuk143/leetCode_2/tree/master/0682-baseball-game) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
