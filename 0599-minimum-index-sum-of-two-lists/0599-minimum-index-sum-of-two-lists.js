@@ -21,6 +21,7 @@ var findRestaurant = function(list1, list2) {
                     tem[i] = i+j
                 }
                 if(i+j<min)min=i+j
+                break
             }
         }
     }
