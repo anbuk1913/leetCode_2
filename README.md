@@ -299,6 +299,7 @@
 | [1013-fibonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anbuk143/leetCode_2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anbuk143/leetCode_2/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anbuk143/leetCode_2/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anbuk143/leetCode_2/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/anbuk143/leetCode_2/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
