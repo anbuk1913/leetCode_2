@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anbuk143/leetCode_2/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anbuk143/leetCode_2/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/anbuk143/leetCode_2/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anbuk143/leetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -105,6 +106,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/anbuk143/leetCode_2/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anbuk143/leetCode_2/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/anbuk143/leetCode_2/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anbuk143/leetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/anbuk143/leetCode_2/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
