@@ -101,6 +101,7 @@
 | [0088-merge-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/anbuk143/leetCode_2/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/anbuk143/leetCode_2/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0215-kth-largest-element-in-an-array) |
@@ -274,6 +275,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anbuk143/leetCode_2/tree/master/0682-baseball-game) |
@@ -302,6 +304,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/anbuk143/leetCode_2/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/anbuk143/leetCode_2/tree/master/0326-power-of-three) |
