@@ -4,8 +4,19 @@
  * @return {number}
  */
 var findFinalValue = function(nums, original) {
-    while(nums.includes(original)){
-        original*=2
+    let tar=original
+    let fou=true;
+    while(fou){
+        fou=false
+    for(let i=0;i<nums.length;i++){
+
+            if(tar==nums[i]){
+                tar*=2
+                fou=true;
+                break;
+            }
     }
-    return original
+        }
+    
+    return tar
 };
