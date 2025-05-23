@@ -71,6 +71,7 @@
 | [1894-merge-strings-alternately](https://github.com/anbuk143/leetCode_2/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/anbuk143/leetCode_2/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/anbuk143/leetCode_2/tree/master/1970-sorting-the-sentence) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/anbuk143/leetCode_2/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/anbuk143/leetCode_2/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/anbuk143/leetCode_2/tree/master/2076-sum-of-digits-of-string-after-convert) |
