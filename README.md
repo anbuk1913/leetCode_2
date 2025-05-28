@@ -267,6 +267,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anbuk143/leetCode_2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anbuk143/leetCode_2/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2502-sort-the-people](https://github.com/anbuk143/leetCode_2/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anbuk143/leetCode_2/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -361,6 +362,7 @@
 | [0506-relative-ranks](https://github.com/anbuk143/leetCode_2/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anbuk143/leetCode_2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
