@@ -3,15 +3,16 @@
  * @return {number}
  */
 var addDigits = function(num) {
-    if(String(num).length==1)return num
-    let t = String(num)
-    let ans =0
-    while(t.length!=1){
-        ans = 0
-        for(let i=0;i<t.length;i++){
-            ans+=Number(t[i])
+    let t = num
+    let sum = 0
+    if(t<10)return t
+    while(t>9){
+        sum = 0
+        let s = String(t)
+        for(let i=0;i<s.length;i++){
+            sum+=Number(s[i])
         }
-        t=String(ans)
+        t = sum
     }
-    return ans
+    return sum
 };
