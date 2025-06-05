@@ -133,6 +133,7 @@
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/anbuk143/leetCode_2/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/anbuk143/leetCode_2/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/anbuk143/leetCode_2/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/anbuk143/leetCode_2/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
@@ -292,6 +293,7 @@
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/anbuk143/leetCode_2/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/anbuk143/leetCode_2/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/anbuk143/leetCode_2/tree/master/1505-create-target-array-in-the-given-order) |
@@ -402,6 +404,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anbuk143/leetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/anbuk143/leetCode_2/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/anbuk143/leetCode_2/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anbuk143/leetCode_2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anbuk143/leetCode_2/tree/master/2585-delete-greatest-value-in-each-row) |
