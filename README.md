@@ -191,6 +191,7 @@
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anbuk143/leetCode_2/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/anbuk143/leetCode_2/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anbuk143/leetCode_2/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbuk143/leetCode_2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -358,6 +359,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anbuk143/leetCode_2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/anbuk143/leetCode_2/tree/master/2288-count-operations-to-obtain-zero) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/anbuk143/leetCode_2/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/anbuk143/leetCode_2/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/anbuk143/leetCode_2/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
