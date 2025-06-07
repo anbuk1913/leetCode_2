@@ -339,6 +339,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anbuk143/leetCode_2/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anbuk143/leetCode_2/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -443,6 +444,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anbuk143/leetCode_2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anbuk143/leetCode_2/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/anbuk143/leetCode_2/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0206-reverse-linked-list) |
@@ -524,6 +526,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anbuk143/leetCode_2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anbuk143/leetCode_2/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/anbuk143/leetCode_2/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/anbuk143/leetCode_2/tree/master/0203-remove-linked-list-elements) |
