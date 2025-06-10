@@ -46,6 +46,7 @@
 | [2825-minimize-string-length](https://github.com/anbuk143/leetCode_2/tree/master/2825-minimize-string-length) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anbuk143/leetCode_2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [2886-faulty-keyboard](https://github.com/anbuk143/leetCode_2/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/anbuk143/leetCode_2/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/anbuk143/leetCode_2/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anbuk143/leetCode_2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
@@ -408,6 +410,7 @@
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbuk143/leetCode_2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/anbuk143/leetCode_2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anbuk143/leetCode_2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
