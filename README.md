@@ -348,6 +348,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/anbuk143/leetCode_2/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/anbuk143/leetCode_2/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anbuk143/leetCode_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anbuk143/leetCode_2/tree/master/0342-power-of-four) |
@@ -546,5 +547,10 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anbuk143/leetCode_2/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/anbuk143/leetCode_2/tree/master/0319-bulb-switcher) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anbuk143/leetCode_2/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
