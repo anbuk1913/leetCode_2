@@ -348,6 +348,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/anbuk143/leetCode_2/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anbuk143/leetCode_2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anbuk143/leetCode_2/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anbuk143/leetCode_2/tree/master/0371-sum-of-two-integers) |
@@ -542,4 +543,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anbuk143/leetCode_2/tree/master/0219-contains-duplicate-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/anbuk143/leetCode_2/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
