@@ -213,6 +213,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/anbuk143/leetCode_2/tree/master/3429-special-array-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anbuk143/leetCode_2/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Prefix Sum
 |  |
 | ------- |
