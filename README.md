@@ -122,6 +122,7 @@
 | [0075-sort-colors](https://github.com/anbuk143/leetCode_2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/anbuk143/leetCode_2/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anbuk143/leetCode_2/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anbuk143/leetCode_2/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/anbuk143/leetCode_2/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -432,6 +433,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/anbuk143/leetCode_2/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anbuk143/leetCode_2/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/anbuk143/leetCode_2/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anbuk143/leetCode_2/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1013-fibonacci-number) |
