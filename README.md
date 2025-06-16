@@ -255,6 +255,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anbuk143/leetCode_2/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anbuk143/leetCode_2/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anbuk143/leetCode_2/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -356,6 +357,7 @@
 | [0002-add-two-numbers](https://github.com/anbuk143/leetCode_2/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anbuk143/leetCode_2/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/anbuk143/leetCode_2/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
