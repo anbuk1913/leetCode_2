@@ -221,6 +221,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/anbuk143/leetCode_2/tree/master/3429-special-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anbuk143/leetCode_2/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anbuk143/leetCode_2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3778-transform-array-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -428,6 +430,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbuk143/leetCode_2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/anbuk143/leetCode_2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anbuk143/leetCode_2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3778-transform-array-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
