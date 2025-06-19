@@ -204,6 +204,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anbuk143/leetCode_2/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anbuk143/leetCode_2/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/anbuk143/leetCode_2/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anbuk143/leetCode_2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anbuk143/leetCode_2/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -301,6 +302,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/anbuk143/leetCode_2/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anbuk143/leetCode_2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2502-sort-the-people](https://github.com/anbuk143/leetCode_2/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anbuk143/leetCode_2/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -356,6 +358,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/anbuk143/leetCode_2/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/anbuk143/leetCode_2/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anbuk143/leetCode_2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2475-largest-palindromic-number](https://github.com/anbuk143/leetCode_2/tree/master/2475-largest-palindromic-number) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Math
