@@ -220,6 +220,7 @@
 | [3194-find-words-containing-character](https://github.com/anbuk143/leetCode_2/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anbuk143/leetCode_2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/anbuk143/leetCode_2/tree/master/3429-special-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anbuk143/leetCode_2/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -310,6 +311,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anbuk143/leetCode_2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anbuk143/leetCode_2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3778-transform-array-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
@@ -361,6 +363,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anbuk143/leetCode_2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2475-largest-palindromic-number](https://github.com/anbuk143/leetCode_2/tree/master/2475-largest-palindromic-number) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anbuk143/leetCode_2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
 | ------- |
