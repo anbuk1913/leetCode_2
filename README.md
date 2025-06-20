@@ -107,6 +107,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/anbuk143/leetCode_2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/anbuk143/leetCode_2/tree/master/2825-minimize-string-length) |
+| [2881-split-strings-by-separator](https://github.com/anbuk143/leetCode_2/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/anbuk143/leetCode_2/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/anbuk143/leetCode_2/tree/master/3194-find-words-containing-character) |
 | [3636-check-balanced-string](https://github.com/anbuk143/leetCode_2/tree/master/3636-check-balanced-string) |
@@ -215,6 +216,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/anbuk143/leetCode_2/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/anbuk143/leetCode_2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2881-split-strings-by-separator](https://github.com/anbuk143/leetCode_2/tree/master/2881-split-strings-by-separator) |
 | [2902-max-pair-sum-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2902-max-pair-sum-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anbuk143/leetCode_2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/anbuk143/leetCode_2/tree/master/3194-find-words-containing-character) |
