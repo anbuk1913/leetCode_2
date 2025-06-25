@@ -507,6 +507,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 ## Breadth-First Search
 |  |
@@ -591,4 +592,16 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anbuk143/leetCode_2/tree/master/0292-nim-game) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
