@@ -45,6 +45,7 @@
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/anbuk143/leetCode_2/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/anbuk143/leetCode_2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2825-minimize-string-length](https://github.com/anbuk143/leetCode_2/tree/master/2825-minimize-string-length) |
 | [2902-max-pair-sum-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2902-max-pair-sum-in-an-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +105,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/2427-first-letter-to-appear-twice) |
 | [2475-largest-palindromic-number](https://github.com/anbuk143/leetCode_2/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/anbuk143/leetCode_2/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/anbuk143/leetCode_2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/anbuk143/leetCode_2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/anbuk143/leetCode_2/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/anbuk143/leetCode_2/tree/master/2825-minimize-string-length) |
@@ -437,6 +439,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/2427-first-letter-to-appear-twice) |
 | [2475-largest-palindromic-number](https://github.com/anbuk143/leetCode_2/tree/master/2475-largest-palindromic-number) |
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/anbuk143/leetCode_2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbuk143/leetCode_2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/anbuk143/leetCode_2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anbuk143/leetCode_2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
