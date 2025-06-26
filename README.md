@@ -56,6 +56,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anbuk143/leetCode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anbuk143/leetCode_2/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/anbuk143/leetCode_2/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/anbuk143/leetCode_2/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anbuk143/leetCode_2/tree/master/0058-length-of-last-word) |
@@ -341,6 +342,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anbuk143/leetCode_2/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
@@ -457,6 +459,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anbuk143/leetCode_2/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/anbuk143/leetCode_2/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anbuk143/leetCode_2/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anbuk143/leetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
