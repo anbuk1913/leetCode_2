@@ -23,6 +23,7 @@
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/anbuk143/leetCode_2/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/anbuk143/leetCode_2/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anbuk143/leetCode_2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
@@ -71,6 +72,7 @@
 | [0657-robot-return-to-origin](https://github.com/anbuk143/leetCode_2/tree/master/0657-robot-return-to-origin) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/anbuk143/leetCode_2/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/anbuk143/leetCode_2/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anbuk143/leetCode_2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
@@ -296,6 +298,7 @@
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0807-custom-sort-string](https://github.com/anbuk143/leetCode_2/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
