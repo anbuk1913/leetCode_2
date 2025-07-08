@@ -21,6 +21,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anbuk143/leetCode_2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/anbuk143/leetCode_2/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/anbuk143/leetCode_2/tree/master/0807-custom-sort-string) |
@@ -163,6 +164,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/anbuk143/leetCode_2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/anbuk143/leetCode_2/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/anbuk143/leetCode_2/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/anbuk143/leetCode_2/tree/master/0748-largest-number-at-least-twice-of-others) |
