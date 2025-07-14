@@ -87,6 +87,7 @@
 | [1619-path-crossing](https://github.com/anbuk143/leetCode_2/tree/master/1619-path-crossing) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anbuk143/leetCode_2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/anbuk143/leetCode_2/tree/master/1651-shuffle-string) |
+| [1714-rearrange-spaces-between-words](https://github.com/anbuk143/leetCode_2/tree/master/1714-rearrange-spaces-between-words) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anbuk143/leetCode_2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/anbuk143/leetCode_2/tree/master/1797-goal-parser-interpretation) |
