@@ -406,6 +406,7 @@
 | [1013-fibonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/anbuk143/leetCode_2/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anbuk143/leetCode_2/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anbuk143/leetCode_2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anbuk143/leetCode_2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anbuk143/leetCode_2/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anbuk143/leetCode_2/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -601,6 +602,7 @@
 | [0206-reverse-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anbuk143/leetCode_2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
