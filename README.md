@@ -178,6 +178,7 @@
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
+| [0978-valid-mountain-array](https://github.com/anbuk143/leetCode_2/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/anbuk143/leetCode_2/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/anbuk143/leetCode_2/tree/master/1036-rotting-oranges) |
