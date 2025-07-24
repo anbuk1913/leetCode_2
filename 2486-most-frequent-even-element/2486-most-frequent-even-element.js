@@ -3,25 +3,31 @@
  * @return {number}
  */
 var mostFrequentEven = function(nums) {
-  nums=nums.filter((ind)=>ind%2==0)
-  nums.sort((a,b)=>a-b)
-  let lar=-1
-  let tem=1
-  let count=0
-  for(let i=1;i<nums.length;i++){
-    
-    if(nums[i-1]==nums[i]){
-      tem++
+    let obj = {}
+    let max = 0
+    let ans = -1
+    for(let i of nums){
+        if(i%2===0){    
+            if(obj[i]){
+                obj[i]++
+                if(max<obj[i]){
+                    max = obj[i]
+                    ans = i
+                } else if(max==obj[i] && i<ans) {
+                    max = obj[i]
+                    ans = i
+                }
+            } else {
+                obj[i]=1
+                if(max<obj[i]){
+                    max = obj[i]
+                    ans = i
+                } else if(max==obj[i] && i<ans) {
+                    max = obj[i]
+                    ans = i
+                }
+            }
+        }
     }
-    
-    else{
-      tem=1
-    }
-    if(count<tem){
-      count=tem
-      lar=nums[i-1]
-    }
-  }
-  if(nums.length==1)return nums[0]
-  return lar
+    return ans
 };
