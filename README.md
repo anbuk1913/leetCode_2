@@ -66,6 +66,7 @@
 | [0038-count-and-say](https://github.com/anbuk143/leetCode_2/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anbuk143/leetCode_2/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anbuk143/leetCode_2/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/anbuk143/leetCode_2/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/anbuk143/leetCode_2/tree/master/0392-is-subsequence) |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/anbuk143/leetCode_2/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/anbuk143/leetCode_2/tree/master/0498-diagonal-traverse) |
@@ -396,6 +398,7 @@
 | [0002-add-two-numbers](https://github.com/anbuk143/leetCode_2/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anbuk143/leetCode_2/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/anbuk143/leetCode_2/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anbuk143/leetCode_2/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
@@ -494,6 +497,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anbuk143/leetCode_2/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/anbuk143/leetCode_2/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/anbuk143/leetCode_2/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/anbuk143/leetCode_2/tree/master/0287-find-the-duplicate-number) |
