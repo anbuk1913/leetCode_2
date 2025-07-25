@@ -12,6 +12,7 @@
 | [0141-linked-list-cycle](https://github.com/anbuk143/leetCode_2/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/anbuk143/leetCode_2/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anbuk143/leetCode_2/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/anbuk143/leetCode_2/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/anbuk143/leetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -66,6 +67,7 @@
 | [0043-multiply-strings](https://github.com/anbuk143/leetCode_2/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anbuk143/leetCode_2/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/anbuk143/leetCode_2/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/anbuk143/leetCode_2/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/anbuk143/leetCode_2/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anbuk143/leetCode_2/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/anbuk143/leetCode_2/tree/master/0451-sort-characters-by-frequency) |
