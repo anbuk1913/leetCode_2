@@ -54,6 +54,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/anbuk143/leetCode_2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2825-minimize-string-length](https://github.com/anbuk143/leetCode_2/tree/master/2825-minimize-string-length) |
 | [2902-max-pair-sum-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2902-max-pair-sum-in-an-array) |
+| [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbuk143/leetCode_2/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anbuk143/leetCode_2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -125,6 +126,7 @@
 | [2881-split-strings-by-separator](https://github.com/anbuk143/leetCode_2/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/anbuk143/leetCode_2/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/anbuk143/leetCode_2/tree/master/3194-find-words-containing-character) |
+| [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
 | [3396-valid-word](https://github.com/anbuk143/leetCode_2/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/anbuk143/leetCode_2/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/anbuk143/leetCode_2/tree/master/3636-check-balanced-string) |
@@ -255,6 +257,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/anbuk143/leetCode_2/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/anbuk143/leetCode_2/tree/master/1833-find-the-highest-altitude) |
+| [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -430,6 +433,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/anbuk143/leetCode_2/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/anbuk143/leetCode_2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -563,12 +567,14 @@
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [2122-count-special-quadruplets](https://github.com/anbuk143/leetCode_2/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anbuk143/leetCode_2/tree/master/2215-finding-3-digit-even-numbers) |
+| [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
 ## Union Find
 |  |
 | ------- |
