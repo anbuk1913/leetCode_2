@@ -219,6 +219,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anbuk143/leetCode_2/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/anbuk143/leetCode_2/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anbuk143/leetCode_2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2181-smallest-index-with-equal-value](https://github.com/anbuk143/leetCode_2/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/anbuk143/leetCode_2/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anbuk143/leetCode_2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -443,6 +444,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anbuk143/leetCode_2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anbuk143/leetCode_2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -514,6 +516,7 @@
 | [0371-sum-of-two-integers](https://github.com/anbuk143/leetCode_2/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anbuk143/leetCode_2/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anbuk143/leetCode_2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2427-first-letter-to-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/2427-first-letter-to-appear-twice) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
@@ -577,6 +580,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/anbuk143/leetCode_2/tree/master/0204-count-primes) |
 | [2122-count-special-quadruplets](https://github.com/anbuk143/leetCode_2/tree/master/2122-count-special-quadruplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anbuk143/leetCode_2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anbuk143/leetCode_2/tree/master/2215-finding-3-digit-even-numbers) |
 | [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
 ## Union Find
