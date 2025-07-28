@@ -52,6 +52,7 @@
 | [2502-sort-the-people](https://github.com/anbuk143/leetCode_2/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/anbuk143/leetCode_2/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/anbuk143/leetCode_2/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2679-count-distinct-numbers-on-board](https://github.com/anbuk143/leetCode_2/tree/master/2679-count-distinct-numbers-on-board) |
 | [2825-minimize-string-length](https://github.com/anbuk143/leetCode_2/tree/master/2825-minimize-string-length) |
 | [2902-max-pair-sum-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2902-max-pair-sum-in-an-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
@@ -239,6 +240,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/anbuk143/leetCode_2/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/anbuk143/leetCode_2/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2679-count-distinct-numbers-on-board](https://github.com/anbuk143/leetCode_2/tree/master/2679-count-distinct-numbers-on-board) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/anbuk143/leetCode_2/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2881-split-strings-by-separator](https://github.com/anbuk143/leetCode_2/tree/master/2881-split-strings-by-separator) |
 | [2902-max-pair-sum-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2902-max-pair-sum-in-an-array) |
@@ -362,6 +364,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/anbuk143/leetCode_2/tree/master/2288-count-operations-to-obtain-zero) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/anbuk143/leetCode_2/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2679-count-distinct-numbers-on-board](https://github.com/anbuk143/leetCode_2/tree/master/2679-count-distinct-numbers-on-board) |
 | [2886-faulty-keyboard](https://github.com/anbuk143/leetCode_2/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
 ## Stack
@@ -431,6 +434,7 @@
 | [2556-convert-the-temperature](https://github.com/anbuk143/leetCode_2/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/anbuk143/leetCode_2/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2679-count-distinct-numbers-on-board](https://github.com/anbuk143/leetCode_2/tree/master/2679-count-distinct-numbers-on-board) |
 | [2752-sum-multiples](https://github.com/anbuk143/leetCode_2/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/anbuk143/leetCode_2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
