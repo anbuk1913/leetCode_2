@@ -254,6 +254,7 @@
 | [3429-special-array-i](https://github.com/anbuk143/leetCode_2/tree/master/3429-special-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anbuk143/leetCode_2/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/anbuk143/leetCode_2/tree/master/3778-transform-array-by-parity) |
+| [3790-fruits-into-baskets-ii](https://github.com/anbuk143/leetCode_2/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anbuk143/leetCode_2/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbuk143/leetCode_2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/anbuk143/leetCode_2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/anbuk143/leetCode_2/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/anbuk143/leetCode_2/tree/master/2679-count-distinct-numbers-on-board) |
 | [2886-faulty-keyboard](https://github.com/anbuk143/leetCode_2/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
+| [3790-fruits-into-baskets-ii](https://github.com/anbuk143/leetCode_2/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -600,6 +603,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anbuk143/leetCode_2/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3790-fruits-into-baskets-ii](https://github.com/anbuk143/leetCode_2/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -609,6 +613,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anbuk143/leetCode_2/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3790-fruits-into-baskets-ii](https://github.com/anbuk143/leetCode_2/tree/master/3790-fruits-into-baskets-ii) |
 ## Trie
 |  |
 | ------- |
