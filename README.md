@@ -46,6 +46,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anbuk143/leetCode_2/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anbuk143/leetCode_2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anbuk143/leetCode_2/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/anbuk143/leetCode_2/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/2427-first-letter-to-appear-twice) |
 | [2475-largest-palindromic-number](https://github.com/anbuk143/leetCode_2/tree/master/2475-largest-palindromic-number) |
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
@@ -118,6 +119,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/anbuk143/leetCode_2/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/anbuk143/leetCode_2/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/anbuk143/leetCode_2/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/anbuk143/leetCode_2/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/anbuk143/leetCode_2/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/2427-first-letter-to-appear-twice) |
 | [2475-largest-palindromic-number](https://github.com/anbuk143/leetCode_2/tree/master/2475-largest-palindromic-number) |
@@ -482,6 +484,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/anbuk143/leetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/anbuk143/leetCode_2/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/anbuk143/leetCode_2/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/anbuk143/leetCode_2/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/anbuk143/leetCode_2/tree/master/2427-first-letter-to-appear-twice) |
 | [2475-largest-palindromic-number](https://github.com/anbuk143/leetCode_2/tree/master/2475-largest-palindromic-number) |
 | [2486-most-frequent-even-element](https://github.com/anbuk143/leetCode_2/tree/master/2486-most-frequent-even-element) |
