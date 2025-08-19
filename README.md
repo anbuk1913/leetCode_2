@@ -382,6 +382,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anbuk143/leetCode_2/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anbuk143/leetCode_2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/anbuk143/leetCode_2/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anbuk143/leetCode_2/tree/master/0682-baseball-game) |
@@ -669,4 +670,8 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/anbuk143/leetCode_2/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
