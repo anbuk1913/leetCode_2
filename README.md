@@ -29,6 +29,7 @@
 | [0822-unique-morse-code-words](https://github.com/anbuk143/leetCode_2/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/anbuk143/leetCode_2/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/anbuk143/leetCode_2/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/anbuk143/leetCode_2/tree/master/0940-fruit-into-baskets) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/anbuk143/leetCode_2/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anbuk143/leetCode_2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -187,6 +188,7 @@
 | [0822-unique-morse-code-words](https://github.com/anbuk143/leetCode_2/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/anbuk143/leetCode_2/tree/master/0837-most-common-word) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/anbuk143/leetCode_2/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/anbuk143/leetCode_2/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/anbuk143/leetCode_2/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/anbuk143/leetCode_2/tree/master/0978-valid-mountain-array) |
@@ -655,6 +657,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anbuk143/leetCode_2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anbuk143/leetCode_2/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/anbuk143/leetCode_2/tree/master/0940-fruit-into-baskets) |
 ## Brainteaser
 |  |
 | ------- |
