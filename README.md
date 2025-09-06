@@ -194,6 +194,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/anbuk143/leetCode_2/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/anbuk143/leetCode_2/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/anbuk143/leetCode_2/tree/master/1044-find-common-characters) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/1072-next-greater-node-in-linked-list) |
 | [1095-two-city-scheduling](https://github.com/anbuk143/leetCode_2/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/anbuk143/leetCode_2/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/anbuk143/leetCode_2/tree/master/1168-duplicate-zeros) |
@@ -388,6 +389,7 @@
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anbuk143/leetCode_2/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anbuk143/leetCode_2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anbuk143/leetCode_2/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2128-reverse-prefix-of-word](https://github.com/anbuk143/leetCode_2/tree/master/2128-reverse-prefix-of-word) |
@@ -396,6 +398,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anbuk143/leetCode_2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anbuk143/leetCode_2/tree/master/0739-daily-temperatures) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/1072-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -645,6 +648,7 @@
 | [0206-reverse-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/anbuk143/leetCode_2/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anbuk143/leetCode_2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
 |  |
