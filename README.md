@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anbuk143/leetCode_2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anbuk143/leetCode_2/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anbuk143/leetCode_2/tree/master/0035-search-insert-position) |
@@ -274,6 +275,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anbuk143/leetCode_2/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/anbuk143/leetCode_2/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anbuk143/leetCode_2/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anbuk143/leetCode_2/tree/master/0141-linked-list-cycle) |
@@ -404,6 +406,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anbuk143/leetCode_2/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/anbuk143/leetCode_2/tree/master/0680-valid-palindrome-ii) |
 | [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 | [0917-boats-to-save-people](https://github.com/anbuk143/leetCode_2/tree/master/0917-boats-to-save-people) |
