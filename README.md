@@ -576,12 +576,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/anbuk143/leetCode_2/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/anbuk143/leetCode_2/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/anbuk143/leetCode_2/tree/master/0463-island-perimeter) |
 | [0770-couples-holding-hands](https://github.com/anbuk143/leetCode_2/tree/master/0770-couples-holding-hands) |
 | [1036-rotting-oranges](https://github.com/anbuk143/leetCode_2/tree/master/1036-rotting-oranges) |
@@ -673,6 +675,7 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/anbuk143/leetCode_2/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -681,6 +684,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/anbuk143/leetCode_2/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anbuk143/leetCode_2/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Design
 |  |
