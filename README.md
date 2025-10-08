@@ -177,6 +177,7 @@
 | [0498-diagonal-traverse](https://github.com/anbuk143/leetCode_2/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/anbuk143/leetCode_2/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/anbuk143/leetCode_2/tree/master/0506-relative-ranks) |
+| [0526-beautiful-arrangement](https://github.com/anbuk143/leetCode_2/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/anbuk143/leetCode_2/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anbuk143/leetCode_2/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anbuk143/leetCode_2/tree/master/0628-maximum-product-of-three-numbers) |
@@ -467,6 +468,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anbuk143/leetCode_2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/anbuk143/leetCode_2/tree/master/0039-combination-sum) |
+| [0526-beautiful-arrangement](https://github.com/anbuk143/leetCode_2/tree/master/0526-beautiful-arrangement) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anbuk143/leetCode_2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
 |  |
@@ -527,6 +529,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anbuk143/leetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/anbuk143/leetCode_2/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/anbuk143/leetCode_2/tree/master/0392-is-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/anbuk143/leetCode_2/tree/master/0526-beautiful-arrangement) |
 | [1013-fibonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/anbuk143/leetCode_2/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
@@ -539,6 +542,7 @@
 | [0338-counting-bits](https://github.com/anbuk143/leetCode_2/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/anbuk143/leetCode_2/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anbuk143/leetCode_2/tree/master/0371-sum-of-two-integers) |
+| [0526-beautiful-arrangement](https://github.com/anbuk143/leetCode_2/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/anbuk143/leetCode_2/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/anbuk143/leetCode_2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anbuk143/leetCode_2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -695,4 +699,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anbuk143/leetCode_2/tree/master/0155-min-stack) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/anbuk143/leetCode_2/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
