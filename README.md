@@ -139,6 +139,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/anbuk143/leetCode_2/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/anbuk143/leetCode_2/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anbuk143/leetCode_2/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anbuk143/leetCode_2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -385,6 +386,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/anbuk143/leetCode_2/tree/master/2679-count-distinct-numbers-on-board) |
 | [2886-faulty-keyboard](https://github.com/anbuk143/leetCode_2/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/anbuk143/leetCode_2/tree/master/3226-minimum-number-game) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anbuk143/leetCode_2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/anbuk143/leetCode_2/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
@@ -463,6 +465,7 @@
 | [2752-sum-multiples](https://github.com/anbuk143/leetCode_2/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/anbuk143/leetCode_2/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anbuk143/leetCode_2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -608,6 +611,7 @@
 | [0258-add-digits](https://github.com/anbuk143/leetCode_2/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/anbuk143/leetCode_2/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/anbuk143/leetCode_2/tree/master/3210-count-beautiful-substrings-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anbuk143/leetCode_2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -705,4 +709,8 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/anbuk143/leetCode_2/tree/master/0526-beautiful-arrangement) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anbuk143/leetCode_2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
